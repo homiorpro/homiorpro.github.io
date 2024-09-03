@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://homiorpro.github.io/sitemap.html.gz
+Sitemap: https://homiorpro.github.io/app/sitemap.html.gz
+Sitemap: https://homiorpro.github.io/assets/sitemap.html.gz
+Sitemap: https://homiorpro.github.io/css/sitemap.html.gz
+Sitemap: https://homiorpro.github.io/includes/sitemap.html.gz
+Sitemap: https://homiorpro.github.io/item/sitemap.html.gz
+Sitemap: https://homiorpro.github.io/src/sitemap.html.gz
